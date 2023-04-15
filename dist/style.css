@@ -1,0 +1,24 @@
+#content{
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+#nav-tabs{
+
+  display: flex;
+  justify-content: center;
+
+}
+
+.tab{
+  font-size: 2rem;
+  border-top: solid 1px black;
+  border-right: solid 1px black;
+  border-left: solid 1px black;
+  margin-left: 2rem;
+}
+.page-content{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}

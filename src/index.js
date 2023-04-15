@@ -1,3 +1,3 @@
-import loadPage from "./load.js";
+import loadPage from "./load";
 
 loadPage();
